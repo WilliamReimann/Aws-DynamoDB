@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Leonardo Gonçalves"},
+                  "SongTitle": {"S": "Ele Vive"},
+                  "AlbumTitle": {"S": "Princípio"},
+                  "SongYear": {"S": "2014"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Leonardo Gonçalves"},
+                  "SongTitle": {"S": "Novo"},
+                  "AlbumTitle": {"S": "Princípio"},
+                  "SongYear": {"S": "2014"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Leonardo Gonçalves"},
+                  "SongTitle": {"S": "Bondade"},
+                  "AlbumTitle": {"S": "Princípio"},
+                  "SongYear": {"S": "2014"}
                 }
             }
         }
